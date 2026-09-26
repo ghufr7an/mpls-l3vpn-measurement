@@ -1,6 +1,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22983728.svg)](https://doi.org/10.5281/zenodo.22983728)
 
+**Citation:** Shakeel, G. (2026). *Traffic Restoration and Stabilization Latency in a BGP/MPLS L3VPN Under Five Failure Scenarios*. Zenodo. https://doi.org/10.5281/zenodo.22983728
+
+
 # MPLS L3VPN Failure Measurement Study
 
 Reproducible measurement of traffic restoration latency in a BGP/MPLS L3VPN under five failure scenarios.
