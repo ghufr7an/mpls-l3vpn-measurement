@@ -3,6 +3,7 @@
 **Ghufran Shakeel**
 Independent Researcher — Communication Networks, IP/MPLS, Data-Center Networking
 ghufr7an@gmail.com
+DOI: 10.5281/zenodo.22983728
 
 ## Abstract
 
